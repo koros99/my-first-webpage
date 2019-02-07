@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  text-align:center;
+}
+body {
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  font-size: 2.5em;
+}
+h2{
+  color:green;
+  font-style:italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  line-height: 40px;
+  text-align: left;
+}
+strong{
+  font-style: italic;
+}

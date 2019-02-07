@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  font-style:oblique;
+  color:#DB725B;
+}
+p, ol, ul{
+  font-family: 'Fahkwang', sans-serif;
+}
+img{
+  float:left;
+  width: 20em;
+  margin-right: 1em;
+}
+#socials{
+  clear:left;
+  margin-top: 4em;
+}
+em{
+  font-style: normal;
+  font-weight: bolder;
+}
